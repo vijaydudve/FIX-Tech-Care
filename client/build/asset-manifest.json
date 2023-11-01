@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b01ac76.css",
+    "main.js": "/static/js/main.f6320788.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Computer.jpg": "/static/media/Computer.622c1ce1ade9232e4761.jpg",
+    "static/media/image6.jpg": "/static/media/image6.e6db02412329e0af1dd6.jpg",
+    "static/media/India.pdf": "/static/media/India.6926e1d4b243ee938d3a.pdf",
+    "static/media/Europe, United Kingdom.pdf": "/static/media/Europe, United Kingdom.90308f82fd84a3ce2a97.pdf",
+    "static/media/NewZealand.pdf": "/static/media/NewZealand.e39592cdc290a713ba5f.pdf",
+    "static/media/HongKong.pdf": "/static/media/HongKong.730e12168f841c9646a8.pdf",
+    "static/media/Australia.pdf": "/static/media/Australia.35396ca6ab6503d36e72.pdf",
+    "static/media/Thailand.pdf": "/static/media/Thailand.f6d039a07a04d5474f25.pdf",
+    "static/media/Singapore.pdf": "/static/media/Singapore.dd7704466fcdb494e7c4.pdf",
+    "static/media/U.S.A.pdf": "/static/media/U.S.A.274627d2c5fc97945b1e.pdf",
+    "static/media/UAE.pdf": "/static/media/UAE.274627d2c5fc97945b1e.pdf",
+    "static/media/Canada.pdf": "/static/media/Canada.744ec08b8cc4af3cb513.pdf",
+    "static/media/Electrical.jpg": "/static/media/Electrical.df5ced58c342e19133a2.jpg",
+    "static/media/new2b.jpg": "/static/media/new2b.c68b6da407ed496c5c0d.jpg",
+    "static/media/new2c.jpg": "/static/media/new2c.5f127df2927c2d8d22df.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.188c4daf771cf463a7f8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.20b477712d7957d9b029.woff2",
+    "static/media/Carpenter.jpg": "/static/media/Carpenter.c7c315de3a48068ce438.jpg",
+    "static/media/Plumbing.jpg": "/static/media/Plumbing.844d8c26cd5465a67ebc.jpg",
+    "static/media/Cleaning.jpg": "/static/media/Cleaning.30dc3e1720aea748646c.jpg",
+    "static/media/PremisesReview.jpg": "/static/media/PremisesReview.7784eed5e18d4d3a9dc0.jpg",
+    "static/media/new.jpg": "/static/media/new.3ffbc640b63741e56419.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.9b01ac76.css.map": "/static/css/main.9b01ac76.css.map",
+    "main.f6320788.js.map": "/static/js/main.f6320788.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b01ac76.css",
+    "static/js/main.f6320788.js"
+  ]
+}
